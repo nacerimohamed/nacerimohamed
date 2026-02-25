@@ -1,6 +1,7 @@
 # 💫 About Me:
-💻 Software & Data Engineering Student | 🔐 Security Researcher | 🤖 AI Builder<br><br>I am a Software and Data Engineering student at University of the People and ISTA Ouarzazate, currently training in Data Engineering and working as a Graphic Designer Trainer at ALX Africa.<br><br>I design and build scalable, intelligent, and secure systems that combine:<br><br>💡 Software Engineering<br><br>🔐 Cybersecurity Practices<br><br>📊 Data Engineering<br><br>🤖 AI-driven Applications<br><br>🚀 What I Do<br><br>🧠 Build AI SaaS platforms & AI agents<br><br>🌍 Develop scalable Web & Mobile Applications<br><br>🔐 Design secure applications using DevSecOps practices<br><br>🎨 Create modern UI/UX & digital designs<br><br>🛠 Automate workflows & CI/CD pipelines
 
+💻 Développeur Web Full Stack
+Spécialisé en développement d’applications web scalables, sécurisées et orientées performance.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/med naceri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_naceri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-naceri-600593394/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_naceri10) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MOHAMED NACERI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.naceri12@gmail.com) 
