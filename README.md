@@ -13,10 +13,4 @@ Spécialisé en développement d’applications web scalables, sécurisées et o
 ----
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nacerimohamed&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nacerimohamed&icon=2&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
