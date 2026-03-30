@@ -1,10 +1,13 @@
 # Hi 👋 My name is MOHAMED NACERI
 
-## 💻 Aspiring Web Developer / Laravel Enthusiast
+💻 Aspiring Web Developer / Laravel Enthusiast
 
 🎓 Currently learning Full-Stack Development
+
 🌱 Always exploring new tech and programming languages
+
 🎯 Passionate about building clean and efficient code
+
 📚 Love reading tech blogs and tutorials
 
 ---
