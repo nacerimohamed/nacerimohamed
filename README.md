@@ -49,13 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nacerimohamed\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nacerimohamed\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🔥 Top Projects
 
