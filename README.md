@@ -53,12 +53,6 @@
 ---
 
 
-## 🔥 Top Projects
-
-* 🚀 Coming soon...
-
----
-
 ## ⚡ Fun Fact
 
 I love turning ideas into real web applications 💡
