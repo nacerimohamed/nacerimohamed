@@ -14,7 +14,7 @@
 
 ## 🌍 About Me
 
-* 🌍 Based in Morocco
+
 * ✉️ Contact: [mohamed.naceri12@gmail.com](mailto:mohamed.naceri12@gmail.com)
 
 ---
